@@ -1,5 +1,6 @@
 
 Custom Command Shell
+
 This is a custom command shell developed as a solution to the problem statement provided. The shell is implemented using OS system calls to execute built-in Linux commands. It supports various features including basic command execution, changing directories, handling incorrect commands, signal handling, executing multiple commands (sequential and parallel), and output redirection.
 
 Features
